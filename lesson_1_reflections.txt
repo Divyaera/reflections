@@ -1,0 +1,76 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	Diff helped a lot in directly pointing out the differences, similarities and
+	even the line numbers which eased the task of scanning and comparing it 
+	manually. 
+
+How could having easy access to entire history of a file make you a more efficient
+programmer in the long term?
+
+    Keeping track of the entire history of a file that I make will allow me to 
+    think more precisely and accurately next time whenever I perform any type of 
+    similar operations. I could write better codes next time by looking at the 
+    changes that I do and is always required so far. This will probably help me 
+    to revert my changes too anytime I want and also compare with old versions if
+    the new changes are not providing satisfactory results.
+
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google
+Docs does?
+
+    Pros -
+    1. History doesn't gets cluttered with too many changes
+    2. Clean and clear commits with considerable amount of changes
+    3. Only logical changes are reflected
+    4. Completely working instances of programs are saved every time
+    5. Comparision is made easy and convenient with fully working instances of 
+       codes in every commit
+    6. Commit file remains small and light weight, thus portable and requires 
+       less space
+
+    Cons -
+    1. Some important changes, which may seem illogical are actually very useful 
+       sometimes, wont be lost
+    2. Free from any source of human error like forgetting to commit which is very
+       common
+    3. Could be tiredsome and hectic to some people 
+    4. Makes a system fully automated
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Commands:
+
+    $ git log 
+    This command shows the complete history of commits made so far in the file 
+    along with commit id, name of the author, date when the commit was made and 
+    a personal message associated with that change
+
+    $ git diff
+    eg:  git diff commit-id1 commit-id2
+    Compares the two commits by displaying the number of lines that has been 
+    added by '+', removed by '-' and on changes are remained same
+
+How might using version control make you more confident to make changes that could 
+break something?
+    
+    Yes, version control really makes me so much confident that any changes that
+    I make could definitely cannot ruin the whole program. Even if it does, I can
+    still roll back at any time I want to any previous working state and analyze 
+    the bug statements using the diff command. I can now explore things without 
+    fear of anything which will definitely make me a good programmer
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Git is a very good platform for codes point of view, it has everything that
+    a programmer needs to be called good. Now I wont just try using Git, instead
+    I will now make it as a part of my daily routine in coding endlessly without
+    any hesitation while making changes and edits
+    Git motivates me, enlightened my world of coding by providing a whole new 
+    experience for coding in such a beautiful way and thanks to Udacity for 
+    providing such a good platform to distribute knowledge which is most importantly
+    free and open source
+    
+
+
+
