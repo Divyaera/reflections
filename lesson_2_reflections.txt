@@ -1,0 +1,16 @@
+What happens when you intitialize a repository? Why do you need to do it?
+
+    Initializing any normal repository into a git-repository makes it to obtain
+    all the properties of a git repostory like commit, file tracking, diff, logs 
+    etc. i.e. it transforms any normal repository into a git one acquiring all of 
+    it's commands, tools and behaviour.
+
+    It is achieved through this command:
+        git init
+
+    I strongly need it because, any normal repository does not have all the features
+    that a git repository has like version control, file tracking etc. Also, for 
+    becoming a good programmer and to code freely without any loss of information, I
+    need it to be a git repository
+
+     
