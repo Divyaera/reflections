@@ -10,7 +10,53 @@ What happens when you intitialize a repository? Why do you need to do it?
 
     I strongly need it because, any normal repository does not have all the features
     that a git repository has like version control, file tracking etc. Also, for 
-    becoming a good programmer and to code freely without any loss of information, I
-    need it to be a git repository
+    becoming a good programmer and to code freely without any loss of information,
+    I need to have a git repository.
 
-     
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+    Staging area is the place where commits are made, any files in the staging area
+    will be committed to the repository at once either one, two or more.
+
+    Working directory, on the other hand cannot be directly operate via commit. All 
+    we can do is to check the status of it.
+
+    Repository is the prime goal where we finally want out resources to be commited
+    and version control is thus achieved there.
+
+How can you use the staging area to make sure you have one commit per logical change?
+    
+    Staging area is specially defined for this task of "one commit per logical change"
+    because it executes and commits whatever there is present in there and thus it 
+    gives us space to add the desirable files for being committed.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+    Branches are a very good way of exploring opportunities like experimentation,
+    test cases, beta versions and if something goes wrong we can easily swtich
+    back to our original main branch called, "master".
+
+    Context Switching, branches are very good for feature addition.
+
+ How do the diagrams help you visualize the branch structure?
+
+     Diagrams made the whole story clear, that actually how Git branches work and
+     how are they are formed and maintained. How they create the file structure and 
+     hierarchy linking various branch that get test branches lost and any changes 
+     in other detached 'HEAD' state does not affect out main structure.
+
+What is the result of merging two branch together? Why do we need to represent it
+in the diagram way we do?
+
+    Merging two branch is a beautiful way of merging two files together in such a
+    way that when the combined result is produced, none of the original versions
+    of codes looses its feature and the newly merged file should contain both the
+    features of the two programs.
+    Representing it diagramatically clarifies the views and the branch structure.
+    Thus it makes us sure that we are performing the right operation at the right
+    branch postion without any ambiguities.
+    
+    
+
