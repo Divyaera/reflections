@@ -1,1 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+   If I don't have access to my local repository at some time, maybe in following cases:
+   
+   - My PC damaged
+   - I'm geographically not reachable
+   - I want other users to become a part of my project
+   - A centralized location for everyone
