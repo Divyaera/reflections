@@ -42,10 +42,10 @@ organized? How would branches help?
 
  How do the diagrams help you visualize the branch structure?
 
-     Diagrams made the whole story clear, that actually how Git branches work and
-     how are they are formed and maintained. How they create the file structure and 
-     hierarchy linking various branch that get test branches lost and any changes 
-     in other detached 'HEAD' state does not affect out main structure.
+    Diagrams made the whole story clear, that actually how Git branches work and
+    how are they are formed and maintained. How they create the file structure and 
+    hierarchy linking various branch that get test branches lost and any changes 
+    in other detached 'HEAD' state does not affect out main structure.
 
 What is the result of merging two branch together? Why do we need to represent it
 in the diagram way we do?
@@ -58,5 +58,13 @@ in the diagram way we do?
     Thus it makes us sure that we are performing the right operation at the right
     branch postion without any ambiguities.
     
-    
+ What are the pros and cons of Git’s automatic merging vs. always doing merges
+ manually?
+
+    There is no cons of Git doing the merges, because whenever Git feels like a 
+    conflict, it automatically shows a conflict and even marks the line where the
+    conflict is detected. Thus it really saves our time and effort by manually
+    comparing and searching for differences. Thus merging is completed by two
+    operation i.e. automatic and manual and in some case where complexity is low
+    Git does it for you.
 
