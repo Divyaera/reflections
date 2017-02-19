@@ -21,3 +21,13 @@ instead of another?
     Fork: Fork clones the repositories of a git-hub user to another git-hub user
     Clone: Cloning is done locally or remote server to a local computer
     Branches: Similarly, branches can be formed locally or on the Git-hub remotely
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    Having a local copy allows us to view/perform actions based on the latest remotes.
+    It allows us to be updated even if we go offline, for eg. travelling on a plane
+    Then we can either perform a fetch followed by a merge, or just a pull from the 
+    remote before going offline. After we have done our latest local changes, then 
+    we can push all the changes to the remote branch, next time while comming online.
+    
+
