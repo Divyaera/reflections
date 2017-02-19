@@ -39,4 +39,12 @@ What is the benefit of having a copy of the last known state of the remote store
     or no Git technology, then you an asshole! You fukin' fucker!! Go and fuck yourself
     , dumbass!
     
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
 
+    Seperate branches are areas of new thoughts, possibilities and new changes that 
+    incorporated within our systems of mind and finally implement those new ideas to
+    our project and viewing the changes it made. Allowing branches to upload on Git-Hub
+    to allow others to comment about the new change and finally decide better whether
+    to make our master branch i.e. adding that new idea, code or thought into our
+    existing project!
