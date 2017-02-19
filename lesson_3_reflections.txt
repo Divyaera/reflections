@@ -48,3 +48,8 @@ What benefits does each approach have?
     to allow others to comment about the new change and finally decide better whether
     to make our master branch i.e. adding that new idea, code or thought into our
     existing project!
+
+    Using master branch only on the other hand has some benefits like in smaller 
+    project where time and space are major issues, we rather want to work in the
+    same master branch. Also it depends upon programmers and the team size i.e.
+    number of people working on that project. It keep everything simple
