@@ -29,5 +29,14 @@ What is the benefit of having a copy of the last known state of the remote store
     Then we can either perform a fetch followed by a merge, or just a pull from the 
     remote before going offline. After we have done our latest local changes, then 
     we can push all the changes to the remote branch, next time while comming online.
+
+ How would you collaborate without using Git or GitHub? What would be easier, and what 
+ would be harder?
+
+    I will probably use a combination of both i.e. Git, for my local changes and Git-hub
+    for sharing my codes and changes to public and viewing and accepting others requests
+    and changes in real time! If you are saying that what is harder to use Git technology
+    or no Git technology, then you an asshole! You fukin' fucker!! Go and fuck yourself
+    , dumbass!
     
 
